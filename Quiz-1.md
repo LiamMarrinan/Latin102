@@ -2,18 +2,26 @@ Part I (Identify the gender, case and number, and gender of each noun. If there 
 
 1. filiam (feminine, accusitive, singular)
 2. in coniugium (in + acc translates to into) (neuter, nomanitive, accusitive, or vocatitive, all in the singular)
-3. animo --  (masculine, dative or ablative,) 
-4. virgine -- (feminine, ablatitive, singular)
-5. parentes -- masculine, nomanitive, accusitive, or ablatitive, all plural
-6. ad uxorem -- ad + acc translates to towards, -- feminine, accusitive, singular
+3. animo (masculine, dative or ablative,) 
+4. virgine (feminine, ablatitive, singular)
+5. parentes (masculine, nomanitive, accusitive, or ablatitive, all plural)
+6. ad uxorem (ad + acc translates to towards) -- (feminine, accusitive, singular)
 
 Part II 
   (a) identify the tense, voice, mood, person, and number.
   (b) if the form is singular, convert to plural; if the form is plural, convert to singular 
   (c) translate the new form.
 
-1. petivisset --  (a) pluperfect, active, subjunctive, third, singular -- (b) petivissent -- (c) they had attacked
-2. necavit -- (a) perfect, active, indicative, third, singular -- (b) necaverunt -- (c) slayed
+1. petivisset 
+  (a) pluperfect, active, subjunctive, third, singular 
+  (b) petivissent
+  (c) they had attacked
+  
+2. necavit 
+(a) perfect, active, indicative, third, singular 
+(b) necaverunt 
+(c) slayed
+
 3. necari -- (a) present passive infinitive (b) neither singular or plural (c) to be slayed
 4. rogaretur -- (a) imperfect, passive, subjunctive, third, singular (b) rogarentur (c) should they ask?
 5. coepit -- (a) present, active, indicative, third singular (b) coepiunt (c) begginning 
