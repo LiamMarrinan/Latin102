@@ -1,9 +1,9 @@
 Part I (Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.)
 
-1. filiam -- feminine, accusitive, singular
-2. in coniugium -- in + acc translates to into -- neuter, nomanitive, accusitive, or vocatitive, all in the singular
-3. animo --  masculine, dative or ablative, 
-4. virgine -- feminine, ablatitive, singular
+1. filiam (feminine, accusitive, singular)
+2. in coniugium (in + acc translates to into) (neuter, nomanitive, accusitive, or vocatitive, all in the singular)
+3. animo --  (masculine, dative or ablative,) 
+4. virgine -- (feminine, ablatitive, singular)
 5. parentes -- masculine, nomanitive, accusitive, or ablatitive, all plural
 6. ad uxorem -- ad + acc translates to towards, -- feminine, accusitive, singular
 
