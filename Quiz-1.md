@@ -14,15 +14,18 @@ Part II
 
 1. petivisset 
 
- a. pluperfect, active, subjunctive, third, singular 
+   (a) pluperfect, active, subjunctive, third, singular 
  
- b. petivissent
+   (b) petivissent
  
- c. they had attacked
+   (c) they had attacked
   
 2. necavit 
+
 (a) perfect, active, indicative, third, singular 
+
 (b) necaverunt 
+
 (c) slayed
 
 3. necari -- (a) present passive infinitive (b) neither singular or plural (c) to be slayed
