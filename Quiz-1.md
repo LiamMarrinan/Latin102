@@ -54,19 +54,19 @@ Part II
    
 6. interfecisset 
 
-  (a) pluperfect, active, subjunctive, third, singular 
+   (a) pluperfect, active, subjunctive, third, singular 
   
-  (b) interfecissent 
+   (b) interfecissent 
   
-  (c) had killed
+   (c) had killed
 
 7. misit 
 
-  (a) perfect, active, indicative, third, singular 
+   (a) perfect, active, indicative, third, singular 
   
-  (b) miserunt 
-  
-  (c) was sent
+   (b) miserunt 
+   
+   (c) was sent
 
 Part III
 
