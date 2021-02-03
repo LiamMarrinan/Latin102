@@ -13,9 +13,9 @@ Part II
   (c) translate the new form.
 
 1. petivisset 
-  (a) pluperfect, active, subjunctive, third, singular 
-  (b) petivissent
-  (c) they had attacked
+  a. pluperfect, active, subjunctive, third, singular 
+  b. petivissent
+  c. they had attacked
   
 2. necavit 
 (a) perfect, active, indicative, third, singular 
