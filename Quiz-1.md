@@ -3,11 +3,11 @@
 Part I (Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.)
 
 1. filiam (feminine, accusitive, singular)
-2. in coniugium (in + acc translates to into) (neuter, nomanitive, accusitive, or vocatitive, all in the singular) ❌
+2. in coniugium (in + coniugium translates to into marriage) (neuter, nomanitive, accusitive, all in the singular) ❌ -
 3. animo (masculine, dative or ablative,) 
 4. virgine (feminine, ablatitive, singular)
-5. parentes (masculine, nomanitive, accusitive, or ablatitive, all plural) ❌
-6. ad uxorem (ad + acc translates to towards) -- (feminine, accusitive, singular) ❌
+5. parentes (masculine, nomanitive, accusitive, all plural) ❌ -
+6. ad uxorem (ad + acc translates to to their wife) -- (feminine, accusitive, singular) ❌ -
 
 Part II 
   (a) identify the tense, voice, mood, person, and number.
@@ -45,9 +45,9 @@ Part II
 
 5. coepit 
 
-   (a) present, active, indicative, third singular 
+   (a) present, active, indicative, third, singular 
    
-   (b) coepiunt   ❌
+   (b) coepiunt   ❌ *go over*
    
    
    
@@ -81,13 +81,13 @@ Part III
 
     interfecti sunt
 
-4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) ❌
+4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) ❌ - *go over*
 
-    Cum Hercules interficiebat centaurum, is detulerunt deianiram.
+    Cum Hercules interfecit centaurum, is detulerunt deianiram.
 
-5. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her. ❌
+5. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her. ❌ -
 
-    vidit
+    videret
 
 6. Hercules led Deianira in marriage (i.e., he married her).
 
@@ -95,4 +95,4 @@ Part III
 
 7. Hercules repeatedly asked Eurytus for permission to marry Iole.
 
-    rogavit ❌
+    rogabat ❌ -
