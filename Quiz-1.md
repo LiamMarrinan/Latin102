@@ -1,13 +1,13 @@
-**Needs revisions**
+**Full credit**
 
 Part I (Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.)
 
 1. filiam (feminine, accusitive, singular)
-2. in coniugium (in + coniugium translates to *into marriage*) (neuter, nomanitive, accusitive, all in the singular) ❌ - *Attempted Correction*
+2. in coniugium (in + coniugium translates to *into marriage*) (neuter, accusative, all in the singular)
 3. animo (masculine, dative or ablative,) 
 4. virgine (feminine, ablatitive, singular)
-5. parentes (masculine, nomanitive, accusitive, all plural) ❌ - *Attempted Correction*
-6. ad uxorem (ad + acc translates to *to their wife*) -- (feminine, accusitive, singular) ❌ - *Attempted Correction*
+5. parentes (masculine, nominative, accusative, all plural)
+6. ad uxorem (ad + acc translates to *to their wife*) -- (feminine, accusative, singular)
 
 
 Part II 
@@ -48,7 +48,7 @@ Part II
 
    (a) present, active, indicative, third, singular 
    
-   (b) coepiunt   ❌ *go over*
+   (b) coepiunt   
    
    
    
@@ -82,11 +82,9 @@ Part III
 
     interfecti sunt
 
-4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) ❌ - *Attempted Correction*
+4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)  interfecisset
 
-    Cum Hercules interfecisset centaurum, is detulerunt deianiram.
-
-5. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her. ❌ - *Attempted Correction*
+5. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her. vidit
 
     videret
 
@@ -96,4 +94,4 @@ Part III
 
 7. Hercules repeatedly asked Eurytus for permission to marry Iole.
 
-    rogabat ❌ -
+    rogabat
