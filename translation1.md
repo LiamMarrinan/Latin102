@@ -41,6 +41,6 @@ C. Translation
 Please translate the passgae into idiomatic English.
 
 > When Hercules came in hospitality to King Dexanamenus and deflowered his daughter Deianira, wanting to lead her in marriage. 
-When Hercules was away, the centaur Eurytion demanded Deianira as a wife. Because her father was scared of the centaur, he promised to give her to him.
+When Hercules was away, the centaur Eurytion demanded Deianira as a wife. Since her father was scared of the centaur, he promised to give her to him.
 On the specificied night, the centaur came with his brothers to the wedding. Hercules came in, killed the centaur and led Deianira away.
 
