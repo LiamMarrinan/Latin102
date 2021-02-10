@@ -10,36 +10,64 @@ Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et 
 A. Grammatical analysis
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
-> Hercules cum in hospitium ad Dexamenum regem uenisset
+1.
+>> Hercules cum in hospitium ad Dexamenum regem uenisset
 
->>eiusque filiam Deianiram deuirginasset, 
+>> eiusque filiam Deianiram deuirginasset, 
 
 > volebat eam uxorem ducere.
 
->cum Hercules abesset, centaurus Eurytion petit Deianiram uxorem.
 
->quia pater eius centaurum timebat, pollicitus est se daturum.
+2.
+>>cum Hercules abesset,
 
->Tempore certo, venit centaurus cum fratribus ad nuptias.
+>centaurus Eurytion petit Deianiram uxorem.
 
->Hercules interuenit et centaurum interfecit, Deianiram abduxit.
+3.
+>>quia pater eius centaurum timebat, 
+
+>pollicitus est 
+
+>>se daturum.
+
+4.
+>>Tempore certo,
+
+>venit centaurus 
+
+>>cum fratribus ad nuptias.
+
+5.
+>>Hercules interuenit
+>>et centaurum interfecit, 
+>Deianiram abduxit.
 
 B. Grammatical questions
 
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
 
+>Dexamenus,Dexameni,m Dexamenum is acc.
+
 Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
+
+>Deianira,Deianirae, f Deianiram is acc.
 
 Identify the form abesset, and explain why it is this tense and mood.
 
-> Timing
+> Because the main clause is in the past tense and the author wants to express that this dependent clause is happening at the same time or after the action of the independent clause, in this case at the same time he uses the imperfect subjunctive.
+
 
 Identify the form uenisset, and explain why it is this tense and mood.
 
+> 3rd, singular, pluperfect, subjunctive, active. It is pluperfect because it expresses an action that took place prior to the independent clause.
+
 Identify the form pollicitus est. What dictionary form would you look under to find this verb?
+
+> 3rd, singular, perfect, (deponent, so written in passive but translated in active)
 
 Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 
+>  it is in the ablative because this is the ablatitive of time when.
 
 C. Translation
 Please translate the passgae into idiomatic English.
