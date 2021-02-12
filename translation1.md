@@ -38,9 +38,9 @@ Place each clause on a separate line, indented to show its level of subordinatio
 >>cum fratribus ad nuptias.
 
 5.
->>Hercules interuenit
+>Hercules interuenit
 
->>et centaurum interfecit, 
+>et centaurum interfecit, 
 
 >Deianiram abduxit.
 
