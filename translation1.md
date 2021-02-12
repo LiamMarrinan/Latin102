@@ -39,7 +39,9 @@ Place each clause on a separate line, indented to show its level of subordinatio
 
 5.
 >>Hercules interuenit
+
 >>et centaurum interfecit, 
+
 >Deianiram abduxit.
 
 B. Grammatical questions
