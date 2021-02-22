@@ -21,6 +21,4 @@ Your fifth statement should say that when he had killed all of them, he sent Iol
 > Cum is omnem oppidum interfecerit, is Iolen cepit et eam Deianiram misit.
 
 
-Word List:
-capio, capĕre, cepi, captus
 
