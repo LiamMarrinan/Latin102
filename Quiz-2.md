@@ -1,25 +1,42 @@
 **English Relative Clauses**
 
-The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-> The brothers, who came to the wedding with Eurytion, were violent Centaurs.
-Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
-> Dexamenus was afraid of Eurytion, who Deanira was promised in marriage to.
-Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
-> Eurytion, whose brothers were centaurs, expected to marry Deianira.  
-Nessus tried to rape Deianira. Hercules killed Nessus.
-> Nessus, whom Hercules killed, tried to rape Deianira.
-Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-> Nessus gave Deianira a vial of blood, which hercules was poisoned by.
-In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
-> In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
-Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
-> Prometheus' heart was devoured by an eagle , whom Hercules shot dead with his arrows.
-Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
-> Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
-Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
-> Hercules, who Apolla refused to give an oracle, stole a tripod from the temple at Delphi.
-Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
-> Hercules, whom Juno drove into a fit of madness, killed his own wife Megara.
+1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
+>The brothers, who came to the wedding with Eurytion, were violent Centaurs.
+
+2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
+>Dexamenus was afraid of Eurytion, who Deanira was promised in marriage to.
+
+
+3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
+>Eurytion, whose brothers were centaurs, expected to marry Deianira.  
+
+
+4. Nessus tried to rape Deianira. Hercules killed Nessus.
+>Nessus, whom Hercules killed, tried to rape Deianira.
+
+
+5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
+>Nessus gave Deianira a vial of blood, which hercules was poisoned by.
+
+
+6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
+>In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
+
+
+7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
+>Prometheus' heart was devoured by an eagle , whom Hercules shot dead with his arrows.
+
+
+8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
+>Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
+
+
+9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
+>Hercules, who Apolla refused to give an oracle, stole a tripod from the temple at Delphi.
+
+
+10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
+>Hercules, whom Juno drove into a fit of madness, killed his own wife Megara.
 
 
 **Latin Relative Clauses**
