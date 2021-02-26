@@ -1,3 +1,24 @@
+**Verb synopses**
+>Verb 1: **
+
+>Verb 2: **
+
+third plural present indicative active
+>
+third plural present subjunctive active
+>
+third plural imperfect indicative active
+>
+present infinitive active
+>
+third plural imperfect subjunctive active
+>
+third plural perfect indicative active
+>
+perfect active infinitive
+>
+third plural pluperfect subjunctive active
+>
 **English Relative Clauses**
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
@@ -41,15 +62,15 @@
 
 **Latin Relative Clauses**
 
-The brothers, who came to the wedding with Eurytion, were violent Centaurs.
-> 1. qui
+**The brothers, who came to the wedding with Eurytion, were violent Centaurs.
+> 1. quibbis
 > 2. Fratres (masculine,nomanitive,plural)
-> 3. nomanitive because the antecedent is the subject of the sentence and is in the nomanitive case
+> 3. nomanitive because the antecedent is the subject of the sentence and is in the nomanitive case**
 
-Dexamenus was afraid of Eurytion, who Deanira was promised in marriage to.
-> 1. quem
-> 2. Eurytion (masculine,accusitive,singular)
-> 3. accusitive because the antecedent is the object of the sentence and is in the accusitive case
+Dexamenus was afraid of Eurytion, to whom Deianira was promised in marriage.
+> 1. cui
+> 2. Eurytion (masculine,dative,singular)
+> 3. dative because it is the indirect object.
 
 Eurytion, whose brothers were centaurs, expected to marry Deianira.
 > 1. cuius
