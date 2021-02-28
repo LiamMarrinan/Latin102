@@ -1,24 +1,41 @@
 **Verb synopses**
->Verb 1: **
+>Verb 1: **do, dare, dedi, datus**
 
->Verb 2: **
+>Verb 2: **facio, facĕre, feci, factus**
 
 third plural present indicative active
->
+ 1. dant
+ 2. faciunt
+ 
 third plural present subjunctive active
->
+ 1. dent
+ 2. faciant
+ 
 third plural imperfect indicative active
->
+1. dabant
+2. faciebant
+
 present infinitive active
->
+1. dare
+2. facere
+
 third plural imperfect subjunctive active
->
+1. darent
+2. facerent
+
 third plural perfect indicative active
->
+1. dederunt
+2. fecerunt
+
 perfect active infinitive
->
+1. dedisse
+2. fecisse
+
 third plural pluperfect subjunctive active
->
+1. dedissent
+2. fecissent
+
+
 **English Relative Clauses**
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
