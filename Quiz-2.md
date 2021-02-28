@@ -1,7 +1,7 @@
 **Verb synopses**
->Verb 1: **do, dare, dedi, datus**
+>Verb 1: **do, dare, dedi, datus: to give**
 
->Verb 2: **facio, facĕre, feci, factus**
+>Verb 2: **facio, facĕre, feci, factus: to make**
 
 third plural present indicative active
  1. dant
