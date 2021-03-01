@@ -70,7 +70,7 @@ Identify the form uenisset, and explain why it is this tense and mood.
 
 Identify the form pollicitus est. What dictionary form would you look under to find this verb?  ❌ *What dictionary form would you look under to find this verb?*
 
-> 3rd, singular, perfect, (deponent, so written in passive but translated in active) **indicative, in dictionary polliceor
+> 3rd, singular, perfect, (deponent, so written in passive but translated in active) **indicative, in dictionary under polliceor**
 
 Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 
