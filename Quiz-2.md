@@ -120,9 +120,9 @@ Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus
 > 3. nomanitive because it is the subject.
 
 Hercules, who Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
-> 1. qui
+> 1. quem
 > 2. Hercules (masculine,singular)
-> 3. nomanitive because it is the subject.
+> 3. Accusative because it is the direct object.
 
 Hercules, whom Juno drove into a fit of madness, killed his own wife Megara.
 > 1. quem
