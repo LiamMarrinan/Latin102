@@ -1,5 +1,5 @@
 **Needs revisions** 
-**(Corrections Attempted)**
+**(Corrections are in bold)**
 
 Passage to analyze
 (Based on Hyginus, chapter 33.)
