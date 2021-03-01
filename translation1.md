@@ -35,7 +35,7 @@ Place each clause on a separate line, indented to show its level of subordinatio
 
 4.
 
-Tempore certo, venit centaurus cum fratribus ad nuptias.
+>Tempore certo, venit centaurus cum fratribus ad nuptias.
 
 5.
 >Hercules interuenit
