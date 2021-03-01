@@ -79,10 +79,10 @@ third plural pluperfect subjunctive active
 
 **Latin Relative Clauses**
 
-The brothers, who came to the wedding with Eurytion, were violent Centaurs.
+The brothers, with whom Eurytion came to the wedding, were violent Centaurs.
 > 1. quibbis
 > 2. The brothers (masculine,plural)
-> 3. nomanitive the relative pronoun is acting as the subject.
+> 3. Ablative because the relative pronoun is the using the ablative of accompaniment.
 
 Dexamenus, to whom Deianira was promised in marriage, was afraid of Eurytion.
 > 1. cui
