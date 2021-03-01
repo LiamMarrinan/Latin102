@@ -80,7 +80,7 @@ Identify the form of the noun-adjective phrase tempore certo, and explain why it
 C. Translation
 Please translate the passgae into idiomatic English.
 
-> When Hercules came in hospitality to King Dexanamenus and deflowered his daughter Deianira, wanting to lead her in marriage.  ❌ *This is not a sentence in English.* **When Hercules came in hospitality to King Dexanamenus and deflowered his daughter Deianira, he wanted to marry her.**
+> When Hercules came in hospitality to King Dexanamenus and deflowered his daughter Deianira, wanting to lead her in marriage.  ❌ *This is not a sentence in English.* **When Hercules came in hospitality to King Dexanamenus and deflowered his daughter Deianira, he was wanting to marry her.**
 When Hercules was away, the centaur Eurytion demanded Deianira as a wife. Since her father was scared of the centaur, he promised that he would give her to him.
 On the specificied night 🤔 *tempore?* **At the specific time**, the centaur came with his brothers to the wedding. Hercules came in, killed the centaur and led Deianira away.
 
