@@ -39,7 +39,7 @@ third plural pluperfect subjunctive active
 **English Relative Clauses**
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
->The brothers, who came to the wedding with Eurytion, were violent Centaurs.
+>The brothers, with whom Eurytion came to the wedding, were violent Centaurs.
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 >Dexamenus was afraid of Eurytion, to whom Deanira was promised in marriage.
