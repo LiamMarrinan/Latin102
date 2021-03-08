@@ -1,6 +1,5 @@
 **Full credit** 
 
-
 Passage to analyze
 (Based on Hyginus, chapter 33.)
 
