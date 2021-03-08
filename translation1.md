@@ -1,5 +1,5 @@
-**Needs revisions** 
-**(Corrections are in bold)**
+**Full credit** 
+
 
 Passage to analyze
 (Based on Hyginus, chapter 33.)
@@ -50,23 +50,23 @@ Write a dictionary entry (nominative singular, genitive singular, gender) for De
 
 >Dexamenus,Dexameni,m Dexamenum is acc.
 
-Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram. ❌ *number?*
+Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram. 
 
->Deianira,Deianirae, f Deianiram is acc. ❌ *number?*
+>Deianira,Deianirae, f Deianiram is acc.
 **singular**
 
 Identify the form abesset, and explain why it is this tense and mood.
 
-> Because the main clause is in the past tense and the author wants to express that this dependent clause is happening at the same time or after the action of the independent clause, in this case at the same time he uses the imperfect subjunctive.  ❌ *Why subjunctive mood?*
+> Because the main clause is in the past tense and the author wants to express that this dependent clause is happening at the same time or after the action of the independent clause, in this case at the same time he uses the imperfect subjunctive.
 **Subjunctive to emphasize circumstance**
 
 Identify the form uenisset, and explain why it is this tense and mood.
 
-> 3rd, singular, pluperfect, subjunctive, active. It is pluperfect because it expresses an action that took place prior to the independent clause. ❌ *Why subjunctive mood?*
+> 3rd, singular, pluperfect, subjunctive, active. It is pluperfect because it expresses an action that took place prior to the independent clause.
 >**Subjunctive to emphasize circumstance**
 
 
-Identify the form pollicitus est. What dictionary form would you look under to find this verb?  ❌ *What dictionary form would you look under to find this verb?*
+Identify the form pollicitus est. What dictionary form would you look under to find this verb? 
 
 > 3rd, singular, perfect, (deponent, so written in passive but translated in active) **indicative, in dictionary under polliceor**
 
@@ -77,7 +77,7 @@ Identify the form of the noun-adjective phrase tempore certo, and explain why it
 C. Translation
 Please translate the passgae into idiomatic English.
 
-> When Hercules came in hospitality to King Dexanamenus and deflowered his daughter Deianira, wanting to lead her in marriage.  ❌ *This is not a sentence in English.* **When Hercules came in hospitality to King Dexanamenus and deflowered his daughter Deianira, he was wanting to marry her.**
+> **When Hercules came in hospitality to King Dexanamenus and deflowered his daughter Deianira, he was wanting to marry her.**
 When Hercules was away, the centaur Eurytion demanded Deianira as a wife. Since her father was scared of the centaur, he promised that he would give her to him.
-On the specificied night 🤔 *tempore?* **At the specified time**, the centaur came with his brothers to the wedding. Hercules came in, killed the centaur and led Deianira away.
+**At the specified time**, the centaur came with his brothers to the wedding. Hercules came in, killed the centaur and led Deianira away.
 
