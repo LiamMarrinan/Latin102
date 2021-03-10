@@ -20,18 +20,20 @@ With Minevera showing him, Hercules killed the Hydra.
 2. 38pr.3
 
 Procrustes erat Neptuni filius.
-ad hunc hospes cum uenisset,
->minori lecto proposito
-, reliquam corporis partem praecidebat.
+ad hunc hospes cum venisset,
+>minori lecto proposito,
+reliquam corporis partem praecidebat.
 
 Ablatitive: proposito, lecto 
 
 He placed a smaller bed.
 
-3. 45pr.4
+3. 40pr.4
 
 Minos re cognita Daedalum in custodiam coniecit
 
+
+4. 54pr.4
 >aquila interfecta
 Prometheus post ⅩⅩⅩ annos de monte Caucaso est solutus
 
@@ -43,7 +45,7 @@ Ablatitive absolute: aquila interfecta
 
 -After the eagle was killed
 
-4. 68pr.1
+5. 68pr.1
 
 Polynices 
 >Adrasto rege adiuuante
@@ -53,7 +55,7 @@ ablatitive: with the aid of king Adrastis
 
 With the leader of Thebes
 
-5. 3pr
+6. 3pr
 
 Phrixus arietem immolauit 
 
