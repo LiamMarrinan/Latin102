@@ -21,7 +21,7 @@ Hercules Hydram Minerua monstrante interfecit.
 
 Procrustes erat Neptuni filius.
 
-ad hunc hospes cum venisset,
+>ad hunc hospes cum venisset,
 
 >minori lecto proposito,
 
