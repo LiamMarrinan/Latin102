@@ -13,47 +13,56 @@
 
 Hercules Hydram Minerua monstrante interfecit.
 
-ablatitive: monstrante and Minerau (Present active ablative participle)
-
-With Minevera showing him, Hercules killed the Hydra.
+>1. Minerau
+>2. present active ablatitive 
+>3. With Minerva showing him, Hercules killed the Hyrda
 
 2. 38pr.3
 
 Procrustes erat Neptuni filius.
+
 ad hunc hospes cum venisset,
+
 >minori lecto proposito,
+
 reliquam corporis partem praecidebat.
 
-Ablatitive: proposito, lecto 
-
-He placed a smaller bed.
+>1. lecto
+>2. ablatitive perfect passive
+>3. A smaller bed was placed.
 
 3. 40pr.4
 
 Minos re cognita Daedalum in custodiam coniecit
 
+>1. re
+>2. perfect passive ablatitive
+>3. When this matter was known
 
 4. 54pr.4
+
 >aquila interfecta
+
 Prometheus post ⅩⅩⅩ annos de monte Caucaso est solutus
+ aquila
+ 
+>1. aquila
+>2. perfect passive participle
+>3. After the eagle was killed
 
-Ablatitive: re cognita
-
--When he understood this
-
-Ablatitive absolute: aquila interfecta
-
--After the eagle was killed
 
 5. 68pr.1
 
 Polynices 
+
 >Adrasto rege adiuuante
+
 cum septem ductoribus Thebas uenit
 
-ablatitive: with the aid of king Adrastis
+>1. rege
+>2. perfect active ablative
+>3. with the help of king Adrastis
 
-With the leader of Thebes
 
 6. 3pr
 
@@ -71,4 +80,8 @@ in templo Martis posuit
 
 >Iason Aesonis et Alcimedis filius dicitur petisse.
 
-ablatitive:
+>1. dracone
+>2. perfecr active ablative
+>3. which the dragon guarded
+
+
