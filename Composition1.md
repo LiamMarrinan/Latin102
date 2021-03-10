@@ -24,7 +24,7 @@ Your fourth sentence should say that Iole endured that her parents were killed.
 
 > ORIGINAL: Iole passum❌ esse parentem❌ eius interfectum esse❌.
 
-> CORRECTED: Iole **patiebatur**, **parentes sui** **interfectum iri**.
+> CORRECTED: Iole **patiebatur**, **parentes suos** **interfectum iri**.
 
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
