@@ -12,7 +12,7 @@ Your second sentence should state that when her father Eurytus was unwilling, He
 
 > ORIGINAL: Quia❌ pater eius nollet, Hercules Iolen❌ cepit.
 
-> CORRECTED: **Cum** pater eius nollet, Hercules **Oechalia** cepit.
+> CORRECTED: **Cum** pater eius nollet, Hercules **Oechaliam** cepit.
 
 Your third sentence should express that Hercules said that he would kill her parents, and should include an indirect statement.
 
