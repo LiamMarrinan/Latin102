@@ -16,15 +16,12 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 **1.**
 
-Deianira,
-
->uxor Herculis, 
-
->flumen magnum, 
+Deianira,uxor Herculis, flumen magnum, 
 
 >cui nomen Evenus erat, 
 
->non poterat transire, 
+non poterat transire, 
+
 
 et centaurum Nessum, 
 
