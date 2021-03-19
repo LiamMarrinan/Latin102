@@ -49,17 +49,28 @@ Nessum sagittis confixit.
 
 
 **4.**
+
 ille 
 
-moriens, 
+>moriens, 
 
-cum sciret
+>cum sciret
 
->sagittas Hydrae Lernaeae felle tinctas magnam vim habere,
+>>sagittas 
 
->sanguinem suum exceptum Deianirae dedit
+>>>Hydrae Lernaeae felle tinctas 
 
->et id philtrum esse 
+>>magnam vim habere,
+
+sanguinem suum 
+
+>>exceptum 
+
+Deianirae dedit
+
+et 
+
+>id philtrum esse 
 
 dixit.
 
