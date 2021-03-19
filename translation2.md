@@ -22,11 +22,11 @@ Deianira,
 
 >flumen magnum, 
 
->>cui nomen Evenus erat, 
+>cui nomen Evenus erat, 
 
 >non poterat transire, 
 
->et centaurum Nessum, 
+et centaurum Nessum, 
 
 >qui filius Ixionis et Nubis erat,
 
