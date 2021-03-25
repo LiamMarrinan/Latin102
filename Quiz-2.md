@@ -83,6 +83,7 @@ third plural pluperfect subjunctive active
 
 The brothers, with whom Eurytion came to the wedding, were violent Centaurs.
 > 1. quibbis ❌
+> **Correction- quibus**
 > 2. The brothers (masculine,plural)
 > 3. Ablative because the relative pronoun is the using the ablative of accompaniment.
 
@@ -103,8 +104,10 @@ Nessus, whom Hercules killed, tried to rape Deianira.
 
 Nessus gave Deianira a vial of blood, by which hercules was poisoned.
 > 1. cui❌
+> **Correction- Quem**
 > 2. the vial of blood (masculin,singular)
 > 3. Dative because it is the indirect object.❌
+> **Correction- Accusitive because it is the direct object**
 
 In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
 > 1. qui
@@ -123,8 +126,10 @@ Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus
 
 Hercules, whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
 > 1. quem❌
+> **Correction- cui** 
 > 2. Hercules (masculine,singular)
-> 3. Accusative because it is the direct object.❌
+> 3. Accusitive because it is the direct object.❌
+> **Correction- Dative because it is the indirect object**
 
 Hercules, whom Juno drove into a fit of madness, killed his own wife Megara.
 > 1. quem
