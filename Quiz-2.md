@@ -83,9 +83,9 @@ third plural pluperfect subjunctive active
 
 The brothers, with whom Eurytion came to the wedding, were violent Centaurs.
 > 1. quibbis ❌
-> **Correction- quibus**
+> **Correction-  cum quibus**
 > 2. The brothers (masculine,plural)
-> 3. Ablative because the relative pronoun is the using the ablative of accompaniment.
+> 3. Ablative because the relative pronoun is the using the ablative + the preposition cum.
 
 Dexamenus, to whom Deianira was promised in marriage, was afraid of Eurytion.
 > 1. cui
