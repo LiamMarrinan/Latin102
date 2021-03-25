@@ -104,10 +104,10 @@ Nessus, whom Hercules killed, tried to rape Deianira.
 
 Nessus gave Deianira a vial of blood, by which hercules was poisoned.
 > 1. cui❌
-> **Correction- Quem**
+> **Correction- Quo**
 > 2. the vial of blood (masculin,singular)
 > 3. Dative because it is the indirect object.❌
-> **Correction- Accusitive because it is the direct object**
+> **Correction- Ablatitive because it is the instrument**
 
 In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
 > 1. qui
