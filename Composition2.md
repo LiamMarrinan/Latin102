@@ -5,7 +5,7 @@ Your first sentence should use a negative purpose clause to say that when Deiani
 
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
 
->Ea falulum misit ut daret vestem, sanguinem centarui Nessi imbuitur, herculi, quem ea philtrum cogitavit. 
+>Ea falulum misit ad dandum vestem, sanguinem centarui Nessi imbuitur, herculi, quem ea philtrum cogitavit. 
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
 
