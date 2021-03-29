@@ -17,4 +17,4 @@ Your fourth sentence should express that Hercules threw the slave, whom Deianira
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
->Id dicti sunt, Herculem ad immortalitatem Ascendisse, sed Deianira interfecit ipsam propter rem.
+>Hercule interfecto, Id dicti sunt, Herculem ad immortalitatem Ascendisse, sed Deianira interfecit ipsam propter rem.
