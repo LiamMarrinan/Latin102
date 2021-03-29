@@ -20,4 +20,4 @@ Hercules servem, quem Deianira misit ut vestem recollegerit, in mare misit.
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
-
+id dicti sunt, Herculem ad immortalitatem Ascendisse, sed Deianira interfecit ipsam propter rem.
