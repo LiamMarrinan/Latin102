@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Passage to analyze
 (From Hyginus, chapter 34.)
 
@@ -80,11 +82,11 @@ B. Grammatical questions
 
 1.Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
 
->the antecedent is flumen. cui is in the dative singular neuter. It is in this case because it is the indirect object of the sentence. **Go over exactly why dative is used**
+>the antecedent is flumen. cui is in the dative singular neuter. It is in this case because it is the indirect object❌ of the sentence. **Go over exactly why dative is used**
 
 2.Identify the form of transire. Explain why you placed it in the clause you chose.
 
->transire is in the present active infinitive and because of that is in a dependent clause.
+>transire is in the present active infinitive and because of that is in a dependent clause.❌
 
 3.sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 
@@ -104,7 +106,7 @@ B. Grammatical questions
 
 7.Identify the form of tinctas.
 
->perfect passive participle accusitive present 
+>perfect passive participle accusitive present ❌
 
 8.Identify the form of exceptum.
 
@@ -118,6 +120,6 @@ C. Translate
 
 Deianira, the wife of Hercules, unable to cross the large river, which was named Evanus, asked the centaur Nessus, who was the son of Ixion and Nubes, for help.
 this centaur, with Deianira having been submerged by himself, wanted to violate her.
-Hither, when Hercules intervened and when Deianira begged for her own protection, he pierced Nussus with arrows.
-As he died, knowing the arrows were soaked with a powerful poison of the Hydra Lernaean, having taken out the blood, he gave it to Deianira and said it was a love charm.
+Hither⁉️🤔, when Hercules intervened and when Deianira begged for her own protection, he pierced Nussus with arrows.
+As he died, knowing the arrows were soaked with a powerful poison of the Hydra Lernaean, having taken out the blood🤔, he gave it to Deianira and said it was a love charm.
 
