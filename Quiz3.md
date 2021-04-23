@@ -66,7 +66,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 
 2. Hydram Lernaeam - **Lernaeus, Lernaea, Lernaeum**
 
-3. aprum Erymanthium - **Erymanthius, Erymanthia, Erymanthium **
+3. aprum Erymanthium - **Erymanthius, Erymanthia, Erymanthium**
 
 4. aves Stymphalides - **Stymphalus, Stymphala, Stymphalum**
 
