@@ -90,7 +90,7 @@ B. Grammatical questions
 
 >transire is in the present active infinitive and because of that is in a dependent clause.❌
 
->**Correction**  Transire is in the present active infinitive. I put it in a dependent clause because it is helping complete the idea about Deianira in relation to the river.
+>**Correction**  Transire is in the present active infinitive. I put it in the cause because it is helping complete the idea of poterat. (to be able to + infinitive)
 
 3.sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 
@@ -127,6 +127,10 @@ C. Translate
 
 Deianira, the wife of Hercules, unable to cross the large river, which was named Evanus, asked the centaur Nessus, who was the son of Ixion and Nubes, for help.
 this centaur, with Deianira having been submerged by himself, wanted to violate her.
-Hither⁉️🤔, when Hercules intervened and when Deianira begged for her own protection, he pierced Nussus with arrows.
+Hither⁉️🤔 
+**Correction When Hercules intervened and when Deianira begged for her own protection, he pierced Nussus with arrows.**
+
+
 As he died, knowing the arrows were soaked with a powerful poison of the Hydra Lernaean, having taken out the blood🤔, he gave it to Deianira and said it was a love charm.
 
+**Correction As he died, knowing the arrows were soaked with a powerful poison of the Hydra Lernaean, he gave his blood to Deianira and said it was a love charm. **
