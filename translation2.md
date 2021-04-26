@@ -128,9 +128,9 @@ C. Translate
 Deianira, the wife of Hercules, unable to cross the large river, which was named Evanus, asked the centaur Nessus, who was the son of Ixion and Nubes, for help.
 this centaur, with Deianira having been submerged by himself, wanted to violate her.
 Hither⁉️🤔 
-**Correction When Hercules intervened here and when Deianira begged for her own protection, he pierced Nussus with arrows.**
+**Correction- When Hercules intervened here and when Deianira begged for her own protection, he pierced Nussus with arrows.**
 
 
 As he died, knowing the arrows were soaked with a powerful poison of the Hydra Lernaean, having taken out the blood🤔, he gave it to Deianira and said it was a love charm.
 
-**Correction As he died, knowing the arrows were soaked with a powerful poison of the Hydra Lernaean, he gave his blood to Deianira and said it was a love charm.**
+**Correction- As he died, knowing the arrows were soaked with a powerful poison of the Hydra Lernaean, he gave his own blood ,which had been taken out, to Deianira and said it was a love charm.**
