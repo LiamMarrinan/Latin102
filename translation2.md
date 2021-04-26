@@ -84,9 +84,13 @@ B. Grammatical questions
 
 >the antecedent is flumen. cui is in the dative singular neuter. It is in this case because it is the indirect object❌ of the sentence. **Go over exactly why dative is used**
 
+>**Correction** It is in the dative case because it is the dative of possession.
+
 2.Identify the form of transire. Explain why you placed it in the clause you chose.
 
 >transire is in the present active infinitive and because of that is in a dependent clause.❌
+
+>**Correction**  Transire is in the present active infinitive. I put it in a dependent clause because it is helping complete the idea about Deianira in relation to the river.
 
 3.sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 
@@ -107,6 +111,9 @@ B. Grammatical questions
 7.Identify the form of tinctas.
 
 >perfect passive participle accusitive present ❌
+
+>**Correction** perfect passive participle feminine accusitive plural
+
 
 8.Identify the form of exceptum.
 
