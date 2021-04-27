@@ -1,3 +1,5 @@
+**Needs minor revisions**
+
 Dictionary skills, 1: noun-adjective pairs
 
 1. uno die - **unus, una, unum -- dies, diei M.**
@@ -68,7 +70,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 
 3. aprum Erymanthium - **Erymanthius, Erymanthia, Erymanthium**
 
-4. aves Stymphalides - **Stymphalus, Stymphala, Stymphalum**
+4. aves Stymphalides - **Stymphalus, Stymphala, Stymphalum** ❌
 
 5. Hippolyten Amazonam - **Amazonus, Amazona, Amazonum**
 
@@ -81,7 +83,7 @@ Comparative and superlative forms
 
 3. The Hydra killed passers by *with the greatest blowing* of his poisonous breath. - **maximo afflatu**
 
-4. The victims died *in great torment*. - **magnum cruciatum**
+4. The victims died *in great torment*. - **magnum cruciatum**  ❌ **Correct forms, but why accusative?**
 
 5. The victims died *in greater torment*. - **maiorem cruciatum**
 
