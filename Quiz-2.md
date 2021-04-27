@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 **Verb synopses**
 >Verb 1: **do, dare, dedi, datus: to give**
