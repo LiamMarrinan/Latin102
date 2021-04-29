@@ -1,8 +1,9 @@
-Augeae regis stercus bobile uno die purgavit,  (Subject Hercules, not stated)
+**A.**
 
-maiorem partem 
+Augeae regis stercus bobile uno die purgavit, 
 
->Iove adiutore;
+>maiorem partem Iove adiutore;
+
 
 >flumine admisso 
 
