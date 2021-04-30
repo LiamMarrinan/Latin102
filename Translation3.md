@@ -6,13 +6,16 @@ Augeae regis stercus bobile uno die *purgavit*,
 
 >maiorem partem Iove *adiutore*;
 
-2.
-
 >flumine *admisso* 
 
 totum stercus *abluit*.
 
-3.
+2.
+
+taurum 
+>cum quo Pasiphae *concubuit* 
+ex Creta insula Mycenis vivum *adduxit*.
+
 
 Diomedem Thraciae regem et equos quattuor eius,
 
@@ -47,3 +50,12 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 **C. Literary commentary**
 
 1. Stating that the horses of Diomedes *carne humana vescebantur* really highlights how terrifying they are. The idea that they fed on and even enjoyed human flesh shows the extent of their terror. As well, the use of the comparitive with *maiorem* helps complete the ideas presented as it shows how even though both Hercules and Jupiter helped it was Jupiter who did the majority of the cleaning. 
+
+
+**D. Translation**
+
+One day Hercules cleaned in the dung of King Augeas, with Iove helping for the most part; Hercules let in the river to clean all of the dung.
+
+Hercules led the Bull alive with whom Pasiphae layed with from the island of Crete.
+
+Hercules killed Diomedes, king of Thrace, and his four horses, who enjoyed eating human flesh, with the slave abderus; The horses names were Podargus, Lampon, Xanthus, and Dinus.
