@@ -16,6 +16,7 @@ taurum
 >cum quo Pasiphae *concubuit* 
 ex Creta insula Mycenis vivum *adduxit*.
 
+3.
 
 Diomedem Thraciae regem et equos quattuor eius,
 
