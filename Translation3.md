@@ -14,7 +14,8 @@ totum stercus *abluit*.
 
 taurum 
 >cum quo Pasiphae *concubuit* 
-ex Creta insula Mycenis vivum *adduxit*.
+ex Creta insula Mycenis vivum 
+*adduxit*.
 
 3.
 
