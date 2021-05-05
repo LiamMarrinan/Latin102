@@ -54,7 +54,7 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 **D. Translation**
 
-One day Hercules cleaned dung from King Augeas' stall, with Iove helping for the most part; Hercules let in the river to clean all of the dung.
+Hercules cleaned dung from King Augeas' stall in one day, with Iove helping for the most part; Hercules let in the river to clean all of the dung.
 
 Hercules led the Bull alive with whom Pasiphae layed with from the island of Crete.
 
