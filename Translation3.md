@@ -59,6 +59,6 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 Hercules cleaned dung from King Augeas' stall in one day, with Iove helping for the most part; Hercules let in the river to clean all of the dung.
 
-Hercules led the Bull alive with whom Pasiphae layed with from the island of Crete.
+Hercules led the Bull alive with whom Pasiphae layed with from the island of Crete to Mycenae.
 
 Hercules killed Diomedes, king of Thrace, and his four horses, who enjoyed eating human flesh, with the slave abderus; The horses names were Podargus, Lampon, Xanthus, and Dinus.
