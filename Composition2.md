@@ -11,7 +11,7 @@ Your second sentence should express that she sent her servant to bring to Hercul
 >Ea famulum misit ad dandum vestem, 
 sanguinem centarui Nessi imbuitur, herculi, ❌ **What is the constrution of *sanguinem* here? 
 
-**Correction  sanguinem is in the accusitive case
+**Correction  sanguinem is in the accusitive case as they are what the arrows were dipped into**
 
 
 quem ea philtrum cogitavit. ❌ **We can probably find a better verb for this.** 
