@@ -70,7 +70,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 
 3. aprum Erymanthium - **Erymanthius, Erymanthia, Erymanthium**
 
-4. aves Stymphalides - **Stymphalus, Stymphala, Stymphalum** ❌ **Correction Stymphalus, Stymphali, Stymphalum**
+4. aves Stymphalides - **Stymphalus, Stymphala, Stymphalum** ❌ **Correction Stymphalis, Stymphalidis**
 
 5. Hippolyten Amazonam - **Amazonus, Amazona, Amazonum**
 
@@ -83,7 +83,7 @@ Comparative and superlative forms
 
 3. The Hydra killed passers by *with the greatest blowing* of his poisonous breath. - **maximo afflatu**
 
-4. The victims died *in great torment*. - **magnum cruciatum**  ❌ **Correct forms, but why accusative?** **Correction 
+4. The victims died *in great torment*. - **magnum cruciatum**  ❌ **Correct forms, but why accusative?** **Correction Acc because the adjectives match in case with noun they are describing**
 
 5. The victims died *in greater torment*. - **maiorem cruciatum**
 
