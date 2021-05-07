@@ -9,21 +9,31 @@ Your first sentence should use a negative purpose clause to say that when Deiani
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
 
 >Ea famulum misit ad dandum vestem, 
-sanguinem centarui Nessi imbuitur, herculi, ❌ **What is the constrution of *sanguinem* here?*
+sanguinem centarui Nessi imbuitur, herculi, ❌ **What is the constrution of *sanguinem* here? 
+
+**Correction  sanguinem is in the accusitive case
 
 
-quem ea philtrum cogitavit. ❌ **We can probably find a better verb for this.**
+quem ea philtrum cogitavit. ❌ **We can probably find a better verb for this.** 
+
+**Correction quem ea philtrum ratus est**
 
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
 
->Cum Hercules indueret vestem, ea inflammata fecit.❌ **Use *inflammo* as the verb with the garment as subject.**
+>Cum Hercules indueret vestem, ea inflammata fecit.❌ **Use *inflammo* as the verb with the garment as subject.** 
+
+**Correction Cum Hercules indueret vestem, ea inflammavit**
 
 
 Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
 
 >Hercules servem❌, quem Deianira misit ut vestem recollegerit, in mare misit.
 
+**Correction Hercules servum, quem Deianira misit ut vestem recollegerit, in mare misit.**
+
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
 >Hercule interfecto, Id dicti❌  sunt, Herculem ad immortalitatem Ascendisse, sed Deianira interfecit ipsam propter rem.
+
+**Correction Hercule interfecto, dicitur, Herculem ad immortalitatem Ascendisse, sed Deianira interfecit ipsam propter rem.
