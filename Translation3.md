@@ -4,7 +4,9 @@
 
 Augeae regis stercus bobile uno die *purgavit*, 
 
->maiorem partem Iove *adiutore*;
+maiorem partem 
+
+>Iove *adiutore*;
 
 >flumine *admisso* 
 
@@ -14,9 +16,9 @@ totum stercus *abluit*.
 
 taurum 
 
->cum quo Pasiphae *concubuit* ex Creta insula Mycenis vivum 
+>cum quo Pasiphae *concubuit* 
 
-*adduxit*.
+ex Creta insula Mycenis vivum *adduxit*.
 
 3.
 
@@ -24,7 +26,7 @@ Diomedem Thraciae regem et equos quattuor eius,
 
 >qui carne humana *vescebantur*, 
 
->cum Abdero famulo *interfecit*; 
+cum Abdero famulo *interfecit*; 
 
 equorum autem nomina Podargus Lampon Xanthus Dinus.
 
@@ -35,7 +37,7 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 > It is in the ablative, it is the ablative absolute. 
 
 2. What case is stercus, and why is it in that case?
-> It is the nomanitive case, this is because it is the subject.
+> It is the accusitive case, this is because it is the direct object.
 
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
 > feminine, accusitive, singular, comparitive
@@ -57,8 +59,8 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 **D. Translation**
 
-Hercules cleaned dung from King Augeas' stall in one day, with Iove helping for the most part; Hercules let in the river to clean all of the dung.
+Hercules cleaned the dung from King Augeas' stall in one day, with Iove helping for the most part; Hercules let in the river to clean all of the dung.
 
-Hercules led the Bull alive from the island of Crete to Mycenae, with whom Pasiphae layed with.
+Hercules led the Bull, with whom Pasiphae layed with, alive, from the island of Crete to Mycenae.
 
 Hercules killed Diomedes, king of Thrace, and his four horses, who enjoyed eating human flesh, with the slave abderus; The horses names were Podargus, Lampon, Xanthus, and Dinus.
