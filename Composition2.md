@@ -11,17 +11,17 @@ Your second sentence should express that she sent her servant to bring to Hercul
 >Ea famulum misit ad dandum vestem, 
 sanguinem centarui Nessi imbuitur, herculi, ❌ **What is the constrution of *sanguinem* here? 
 
-**Correction  sanguinem is in the accusitive case as they are what the arrows were dipped into**
+**Correction  sanguinem is in the accusitive case as they are what the arrows were dipped into**   ❌ **Accusative case won't work to express that idea.**
 
 
-quem ea philtrum cogitavit. ❌ **We can probably find a better verb for this.** 
+quem ea philtrum cogitavit. 
 
 **Correction quem ea philtrum ratus est**
 
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
 
->Cum Hercules indueret vestem, ea inflammata fecit.❌ **Use *inflammo* as the verb with the garment as subject.** 
+>Cum Hercules indueret vestem, ea inflammata fecit.
 
 **Correction Cum Hercules indueret vestem, ea inflammavit**
 
@@ -30,10 +30,10 @@ Your fourth sentence should express that Hercules threw the slave, whom Deianira
 
 >Hercules servem❌, quem Deianira misit ut vestem recollegerit, in mare misit.
 
-**Correction Hercules servum, quem Deianira misit ut vestem recollegerit, in mare misit.**
+**Correction Hercules servum, quem Deianira misit ut vestem recollegerit, in mare misit.**❌ **You're in past-time narrative (secondary sequence).  What tenses of the subjunctive are possible for your dependent clauses?**
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
 >Hercule interfecto, Id dicti❌  sunt, Herculem ad immortalitatem Ascendisse, sed Deianira interfecit ipsam propter rem.
 
-**Correction Hercule interfecto, dicitur, Herculem ad immortalitatem Ascendisse, sed Deianira interfecit ipsam propter rem.
+**Correction Hercule interfecto, dicitur, Herculem ad immortalitatem Ascendisse, sed Deianira interfecit ipsam propter rem. ❌ **Great idea to modify Hercules with a participle!  But since he's already in the sentence, don't try to introduce him again in an ablative absolute:  just modify his name diretly.**
