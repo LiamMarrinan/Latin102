@@ -1,3 +1,5 @@
+**Needs minor revisions**
+
 **A. Grammatical analysis**
 
 1.
@@ -49,7 +51,7 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 > qui is nomanitive masculine plural and its antecedent is equos
 
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-> You need to understand that sum, esse, fui, futurus has no present participle and instead you just include the predicate.
+> You need to understand that sum, esse, fui, futurus has no present participle and instead you just include the predicate.❌ **This is a clause (and in fact a complete main sentence!): no participle involved.**
 
 
 **C. Literary commentary**
@@ -59,7 +61,7 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 **D. Translation**
 
-Hercules cleaned the dung from King Augeas' stall in one day, with Iove helping for the most part; Hercules let in the river to clean all of the dung.
+Hercules cleaned the dung from King Augeas' stall in one day, with Iove❌ **Use nominative case for his name** helping for the most part; Hercules let in the river to clean all of the dung.
 
 Hercules led the Bull, with whom Pasiphae layed with, alive, from the island of Crete to Mycenae.
 
