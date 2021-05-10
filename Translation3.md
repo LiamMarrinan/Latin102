@@ -1,4 +1,4 @@
-**Needs minor revisions**
+**Full credit**
 
 **A. Grammatical analysis**
 
