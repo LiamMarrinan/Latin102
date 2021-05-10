@@ -83,8 +83,7 @@ Comparative and superlative forms
 
 3. The Hydra killed passers by *with the greatest blowing* of his poisonous breath. - **maximo afflatu**
 
-4. The victims died *in great torment*. - **magnum cruciatum**  ❌ **Correct forms, but why accusative?** **Correction Acc because the adjectives match in case with noun they are describing** ❌ **This is still not quite what I meant. What case would use in Latin to express "in great torment"?  The answer will *not* be accusative.**
-
+4. The victims died *in great torment*. - **magnum cruciatum**  ❌ **Correct forms, but why accusative?** **Correction  mango cruciatu  
 5. The victims died *in greater torment*. - **maiorem cruciatum**
 
 6. The victims died *in the greatest torment*. - **maximum cruciatum**
