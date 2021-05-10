@@ -9,7 +9,7 @@ Your first sentence should use a negative purpose clause to say that when Deiani
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
 
 >Ea famulum misit ad dandum vestem, 
-sanguinem centarui Nessi imbuitur, herculi, ❌ **What is the constrution of *sanguinem* here? 
+sanguine centauri Nessi imbuitur, herculi, ❌ **What is the constrution of *sanguinem* here? 
 
 **Correction  sanguinem is in the accusitive case as they are what the arrows were dipped into**   ❌ **Accusative case won't work to express that idea.**
 
