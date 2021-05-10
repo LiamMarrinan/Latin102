@@ -11,7 +11,7 @@ Your second sentence should express that she sent her servant to bring to Hercul
 >Ea famulum misit ad dandum vestem, 
 sanguine centauri Nessi imbuitur, herculi, ❌ **What is the constrution of *sanguinem* here? 
 
-**Correction  sanguinem is in the accusitive case as they are what the arrows were dipped into**   ❌ **Accusative case won't work to express that idea.**
+**Correction  ablatitive*
 
 
 quem ea philtrum cogitavit. 
@@ -28,9 +28,11 @@ Your third sentence should say that Hercules put the garment on and it immediate
 
 Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
 
->Hercules servem❌, quem Deianira misit ut vestem recollegerit, in mare misit.
+>Hercules servem❌, quem Deianira misit ut vestem recollegerit, in mare misit.  
 
-**Correction Hercules servum, quem Deianira misit ut vestem recollegerit, in mare misit.**❌ **You're in past-time narrative (secondary sequence).  What tenses of the subjunctive are possible for your dependent clauses?**
+**Correction Hercules servum, quem Deianira misisset ut vestem recollegerit, in mare misit. -misisset in the pluperfect subjunctive case because the dependent clause happening before the action of the independent clause, which is in the perfect tense.
+
+**❌ **You're in past-time narrative (secondary sequence).  What tenses of the subjunctive are possible for your dependent clauses?**
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
