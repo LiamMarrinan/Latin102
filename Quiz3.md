@@ -1,4 +1,4 @@
-**Needs minor revision**
+**Full credit**
 
 Dictionary skills, 1: noun-adjective pairs
 
@@ -83,7 +83,7 @@ Comparative and superlative forms
 
 3. The Hydra killed passers by *with the greatest blowing* of his poisonous breath. - **maximo afflatu**
 
-4. The victims died *in great torment*. - **magnum cruciatum**  ❌ **Correct forms, but why accusative?** -**Correction  mango cruciatu**  
+4. The victims died *in great torment*. - **magnum cruciatum**  ❌ **Correct forms, but why accusative?** -**Correction  magno cruciatu**  
 
 5. The victims died *in greater torment*. - **maiorem cruciatum** -**Correction  maiore cruciatu** 
 
