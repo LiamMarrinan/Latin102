@@ -85,9 +85,9 @@ Comparative and superlative forms
 
 4. The victims died *in great torment*. - **magnum cruciatum**  ❌ **Correct forms, but why accusative?** **Correction  mango cruciatu**  
 
-5. The victims died *in greater torment*. - **maiorem cruciatum**
+5. The victims died *in greater torment*. - **maiorem cruciatum** **Correction  maiore cruciatu** 
 
-6. The victims died *in the greatest torment*. - **maximum cruciatum**
+6. The victims died *in the greatest torment*. - **maximum cruciatum** **Correction  maximo cruciatu** 
 
 7. Hercules cleaned *a great part* of the stables. - **magnam partem**
 
