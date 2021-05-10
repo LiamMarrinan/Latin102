@@ -1,5 +1,4 @@
-**Needs minor revisions**
-**Excellent draft!**
+**Full credit**
 
 
 Your first sentence should use a negative purpose clause to say that when Deianira, the daughter of Oeneus and the wife of Hercules saw that the beautiful young girl Iole had been brought (to her house), she began to devise a plot in order not to lose her husband (or “be deprived of” her husband).
@@ -30,7 +29,7 @@ Your fourth sentence should express that Hercules threw the slave, whom Deianira
 
 >Hercules servem❌, quem Deianira misit ut vestem recollegerit, in mare misit.  
 
-**Correction Hercules servum, quem Deianira misisset ut vestem recollegerit, in mare misit. -misisset in the pluperfect subjunctive case because the dependent clause happening before the action of the independent clause, which is in the perfect tense.
+**Correction Hercules servum, quem Deianira misisset ut vestem revocaret, in mare misit. -misisset in the pluperfect subjunctive case because the dependent clause happening before the action of the independent clause, which is in the perfect tense.
 
 **❌ **You're in past-time narrative (secondary sequence).  What tenses of the subjunctive are possible for your dependent clauses?**
 
@@ -40,6 +39,6 @@ Your last sentence should express that it is reported (or said) that Hercules ro
 
 **Correction 
 
-**Correction Dicitur Herculem ad immortalitatem ascendisse, sed Deianira interfecit ipsam propter rem. ❌ 
+**Correction Dicitur Herculem ad immortalitatem ascendisse, sed Deianira interfecit ipsam propter rem.
 
 **Great idea to modify Hercules with a participle!  But since he's already in the sentence, don't try to introduce him again in an ablative absolute:  just modify his name diretly.**
