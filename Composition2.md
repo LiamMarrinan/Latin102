@@ -38,4 +38,8 @@ Your last sentence should express that it is reported (or said) that Hercules ro
 
 >Hercule interfecto, Id dicti❌  sunt, Herculem ad immortalitatem Ascendisse, sed Deianira interfecit ipsam propter rem.
 
-**Correction Hercule interfecto, dicitur, Herculem ad immortalitatem Ascendisse, sed Deianira interfecit ipsam propter rem. ❌ **Great idea to modify Hercules with a participle!  But since he's already in the sentence, don't try to introduce him again in an ablative absolute:  just modify his name diretly.**
+**Correction 
+
+**Correction Dicitur Herculem ad immortalitatem ascendisse, sed Deianira interfecit ipsam propter rem. ❌ 
+
+**Great idea to modify Hercules with a participle!  But since he's already in the sentence, don't try to introduce him again in an ablative absolute:  just modify his name diretly.**
