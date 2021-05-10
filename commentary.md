@@ -9,7 +9,7 @@ Hyginus Chapter 30, Section 13: canem Cerberum Typhonis filium ab inferis regi i
 **Commentary -** 
 1. Hyginus writes that Hercules brings Cerberus *ab inferis* translating to away from/from the underworld. 
 We clearly see this in the painting from the red glow of distant flames. From this, we know Hercules must be ascending from the underworld.
-As well, we see another similarity as Hyginus uses the verb *adduxit* meaning to lead. This matches up in the painting as Hercules forcefully leads Cerberus from the underworld.
+As well, we see another similarity as Hyginus uses the verb *adduxit* meaning to lead. This matches up in the painting as Hercules forcefully leads Cerberus from the underworld leading him with a metal chain.
 
 2. One difference is that Hyginus doesn't describe Cerberus. In the painting, we see Cerberus is a three-headed dog but Hyginus chose not to mention this about Cerberus
 even though he does take the time to describe many other things like the Lernaean Hydra. 
